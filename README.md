@@ -19,7 +19,7 @@ Topics; Greedy Algorithm, Dynamic Programming, Backtracking, and Divide and Conq
 12.⁠ ⁠Problem 12 Divide and Conquer
 
 ## Setup
- 1.⁠ ⁠Clone the project: ⁠ git clone 
+ 1.⁠ ⁠Clone the project: ⁠ git clone https://github.com/YYener27/Data-Structures-and-Algorithms-/tree/main
  2.⁠ ⁠Install the C++ compiler (for example, g++), the C++ compiler environment (for example, GCC), and the necessary dependencies required for the compilation process.
 
 ## Operating Instructions
